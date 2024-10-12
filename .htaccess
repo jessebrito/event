@@ -1,0 +1,4 @@
+RewriteEngine On
+
+# Redireciona a URL amigável /reservations/14 para reservations.php?reservation_id=14
+RewriteRule ^reservations/([0-9]+)$ pages/reservation_details.php?reservation_id=$1 [L]

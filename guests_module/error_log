@@ -1,0 +1,17 @@
+[12-Oct-2024 07:14:04 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined method GuestManager::getGuestsByEvent() in /home2/maisbaru23/public_html/reserva/guests_module/guest_form.php:8
+Stack trace:
+#0 {main}
+  thrown in /home2/maisbaru23/public_html/reserva/guests_module/guest_form.php on line 8
+[12-Oct-2024 07:15:49 America/Fortaleza] PHP Warning:  include(../../templates/header.php): Failed to open stream: No such file or directory in /home2/maisbaru23/public_html/reserva/guests_module/guest_form.php on line 26
+[12-Oct-2024 07:15:49 America/Fortaleza] PHP Warning:  include(): Failed opening '../../templates/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/maisbaru23/public_html/reserva/guests_module/guest_form.php on line 26
+[12-Oct-2024 07:15:49 America/Fortaleza] PHP Warning:  include(../../templates/footer.php): Failed to open stream: No such file or directory in /home2/maisbaru23/public_html/reserva/guests_module/guest_form.php on line 81
+[12-Oct-2024 07:15:49 America/Fortaleza] PHP Warning:  include(): Failed opening '../../templates/footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/maisbaru23/public_html/reserva/guests_module/guest_form.php on line 81
+[12-Oct-2024 07:16:46 America/Fortaleza] PHP Warning:  include(../../templates/header.php): Failed to open stream: No such file or directory in /home2/maisbaru23/public_html/reserva/guests_module/guest_form.php on line 26
+[12-Oct-2024 07:16:46 America/Fortaleza] PHP Warning:  include(): Failed opening '../../templates/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/maisbaru23/public_html/reserva/guests_module/guest_form.php on line 26
+[12-Oct-2024 07:16:46 America/Fortaleza] PHP Warning:  include(../../templates/footer.php): Failed to open stream: No such file or directory in /home2/maisbaru23/public_html/reserva/guests_module/guest_form.php on line 81
+[12-Oct-2024 07:16:46 America/Fortaleza] PHP Warning:  include(): Failed opening '../../templates/footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/maisbaru23/public_html/reserva/guests_module/guest_form.php on line 81
+[12-Oct-2024 07:16:52 America/Fortaleza] PHP Warning:  include(../../templates/header.php): Failed to open stream: No such file or directory in /home2/maisbaru23/public_html/reserva/guests_module/guest_form.php on line 26
+[12-Oct-2024 07:16:52 America/Fortaleza] PHP Warning:  include(): Failed opening '../../templates/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/maisbaru23/public_html/reserva/guests_module/guest_form.php on line 26
+[12-Oct-2024 07:16:52 America/Fortaleza] PHP Warning:  include(../../templates/footer.php): Failed to open stream: No such file or directory in /home2/maisbaru23/public_html/reserva/guests_module/guest_form.php on line 81
+[12-Oct-2024 07:16:52 America/Fortaleza] PHP Warning:  include(): Failed opening '../../templates/footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/maisbaru23/public_html/reserva/guests_module/guest_form.php on line 81
+[12-Oct-2024 09:01:08 America/Fortaleza] PHP Warning:  Undefined array key "user_id" in /home2/maisbaru23/public_html/reserva/guests_module/guest_form.php on line 18
